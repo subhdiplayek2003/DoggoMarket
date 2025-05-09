@@ -1,7 +1,8 @@
 # TinDog Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+DoggoMarket is a fun and responsive website where users can explore and connect with new and interesting dogs nearby!Inspired by TinDog, this project is built using HTML, CSS, and Bootstrap.
+
+🔗 Live Demo:https://subhdiplayek2003.github.io/DoggoMarket/
 
 ## SVGs:
 
